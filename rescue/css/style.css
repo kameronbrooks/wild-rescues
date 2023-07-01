@@ -36,13 +36,13 @@ img {
 .mobile h1 {
     padding: 2%;
     text-align: center;
-    font-family: 'Lora', serif;
+    font-family: 'Emblema One', cursive;
 
 }
 .mobile h3 {
     padding: 2%;
     text-align: center;
-    font-family: 'Emblema One', cursive;
+    font-family: 'Lora', serif;
 }
 
 /* Style rules for navigation area */
@@ -57,7 +57,7 @@ nav ul {
 
 nav li {
     display: block;
-    border-top: 1px solid #f6eee4;
+    border-top: 0.5px solid #f6eee4;
     padding: 0 1.5em 0 1.5em;
     font-family: Geneva, Arial, sans-serif;
     font-weight: bold;
