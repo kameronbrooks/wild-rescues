@@ -58,7 +58,8 @@ nav ul {
 nav li {
     display: block;
     border-top: 0.5px solid #f6eee4;
-    padding: 0 1.5em 0 1.5em;
+    font-size: 1.5em;
+    padding: 0.5em;
     font-family: Geneva, Arial, sans-serif;
     font-weight: bold;
 }
@@ -128,6 +129,7 @@ main ul {
 .tel-link a {
     color: #f6eee4;
     font-weight: bold;
+    text-decoration: none;
 }
 
 /* Style rules for footer content */
